@@ -1,13 +1,10 @@
 NetherPortal
 ============
  
-PocketMine-MP Web Interface and more... - PocketMine-MP Веб Интерфейс и другое...
+PocketMine-MP Web Interface and more...
 
-During development can be observed here: skypllex.ru - За разработкой можно наблюдать, тут: skypllex.ru
+During development can be observed here: skypllex.ru
 
-List of changes - Список изменений
+List of changes 
 
-- [x] engine frame - каркас движка
-- [ ] authorization and registration - aвторизация и регистрация 
-- [ ] admin-panel - админ-панель
-- [ ] бан-лист
+- [x] engine frame
